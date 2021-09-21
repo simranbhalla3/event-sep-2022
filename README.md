@@ -2,5 +2,5 @@
 Website for the flagship event conducted in odd-semester of 2021
 
 
-Nipun Garg
+Nipun Garg  
 Pranjal Arora
